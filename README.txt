@@ -1,1 +1,1 @@
-A simple rock, paper, scissors console app.
+A simple rock, paper, scissors browser console app.
